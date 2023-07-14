@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @goaliebaba
-- 👀 I’m interested in  javascript
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in  C
+- 🌱 I’m currently learning C and Assembly
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
 <!---
